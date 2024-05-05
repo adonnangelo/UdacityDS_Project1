@@ -2,6 +2,8 @@
 
 ## Installation
 The code in this project was written in a Jupyter notebook and is saved as an .ipynb file. Jupyter with Python 3 will be require to run the code.
+The following libaries were used:
+Pandas, Numpy, Seaborn, Matplotlib
 
 ## Project Description
 This project explores a 2017 StackOverflow survey to understand the following:

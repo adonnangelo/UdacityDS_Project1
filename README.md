@@ -20,7 +20,7 @@ survey_results_public.csv - this is the main data source for the project, consis
 survey_results_schema.csv - this file contains more information about the 2017 StackOverflow survey questions
 
 ## Results
-The main findings of the code can be found at the post available: https://medium.com/@michael.heroth/whats-the-best-and-cheapest-way-to-stay-in-seattle-53e86b369af4
+The results from this project can be found here: https://medium.com/@andrewdonnangelo/working-from-home-before-covid-209e0b8ddff8
 
 ## Licensing, Authors, Acknowledgements
-This dataset is part of Airbnb Inside, and the original source can be found here: https://www.kaggle.com/datasets/airbnb/seattle. There you can find also the Licensing for the data and other descriptive information . Otherwise, feel free to use the code here as you would like!
+The data used in this project originated from StackOverflow and is housed on Kaggle. The dataset can be found here: [https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017). Please reference the link for licensing information.
